@@ -1,6 +1,6 @@
 # 👋 Heyo! I'm Will!
 
-i'm a **sophomore** and an **Engineering Deputy** on **[FRC Team 2502 — Talon Robotics](team2502.com)** 
+I'm a **Sophomore** and an **Engineering Deputy** on **[FRC Team 2502 — Talon Robotics](team2502.com)** 
  I code in **Rust**, **Python**, **JavaScript/TypeScript**, and a bit of **Java**.
 
 
@@ -15,5 +15,13 @@ i'm a **sophomore** and an **Engineering Deputy** on **[FRC Team 2502 — Talon 
 [![Discord Badge](https://img.shields.io/badge/Discord-tbm__20.-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1060930359212122213)
 
 ---
+### Run My NPX Card
 
+Check out my npx card in your terminal!
+
+#### How to run
+
+Make sure you have [Node.js](https://nodejs.org/) installed. Then, simply run:
+```bash
+npx w_arch
 
