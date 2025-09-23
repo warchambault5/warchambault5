@@ -1,7 +1,7 @@
 # 👋 Heyo! I'm Will!
 
 I'm a **Sophomore** and an **Engineering Deputy** on **[FRC Team 2502 — Talon Robotics](team2502.com)** 
- I code in **Rust**, **Python**, **JavaScript/TypeScript**, and a bit of **Java**.
+ I code in **Rust**, **Python**, **JavaScript/TypeScript**, and a bit of **Java** and **C++**.
 
 
 
