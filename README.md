@@ -1,7 +1,7 @@
 # 👋 Heyo! I'm Will!
 
 I'm a **Sophomore** and an **Engineering Deputy** on **[FRC Team 2502 — Talon Robotics](https://team2502.com)**.  
-I code in **Rust**, **Python**, **JavaScript/TypeScript** **C#**, a bit of **Java** and **C++**.
+I code in **Rust**, **Python**, **JavaScript/TypeScript**, **C#**, a bit of **Java** and **C++**.
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
