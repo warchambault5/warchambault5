@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Heyo!)](https://git.io/typing-svg)
-# I'm Will!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Heyo!+Im+Will!)](https://git.io/typing-svg)
 
 I'm a **Sophomore** and an **Engineering Deputy** on **[FRC Team 2502 — Talon Robotics](https://team2502.com)**.  
 I code in **Rust**, **Python**, **JavaScript/TypeScript**, **C#**, a bit of **Java** and **C++**.
