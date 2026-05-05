@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Heyo!+Im+Will!)](https://git.io/typing-svg)
 
-I'm a **Sophomore** and an **Engineering Deputy** on **[FRC Team 2502 — Talon Robotics](https://team2502.com)**.  
+I'm a **Sophomore** and an **Engineering Deputy** on **[FRC Team 2502 — Talon Robotics](https://team2502.com)**, and a **core contributor** on **[MoSimulator](https://mosimulator.com)**.
 I code in **Rust**, **Python**, **JavaScript/TypeScript**, **C#**, a bit of **Java** and **C++**.
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
