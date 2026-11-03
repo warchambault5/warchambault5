@@ -1,13 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Heyo!+Im+Will!)](https://git.io/typing-svg)
 
 I'm a **Junior** and an **Engineering Deputy** on **[FRC Team 2502 — Talon Robotics](https://team2502.com)**.
-I code in **Rust**, **Python**, **JavaScript/TypeScript**, **C#**, a bit of **Java** and **C++**.
+I code in **Rust**, **Python**, **JavaScript/TypeScript**, **C#**, **Kotlin**, and a bit of **Java** and **C++**.
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+[![Kotlin](https://shields.io)](https://kotlinlang.org/)
 
 ---
 
