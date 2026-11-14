@@ -18,15 +18,3 @@ I code in **Rust**, **Python**, **JavaScript/TypeScript**, **C#**, **Kotlin**, a
 [![Gmail Badge](https://img.shields.io/badge/-warchambault5@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:warchambault5@gmail.com)  
 [![Discord Badge](https://img.shields.io/badge/Discord-tbm__20.-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1060930359212122213)
 
----
-
-### Run My NPX Card
-
-Check out my npx card in your terminal!
-
-#### How to run
-
-Make sure you have [Node.js](https://nodejs.org/) installed. Then, simply run:
-
-```bash
-npx w_arch
